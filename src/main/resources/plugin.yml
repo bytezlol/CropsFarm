@@ -1,5 +1,5 @@
 name: FarmPlugin
-main: net.farmsystem.FarmSystem
+main: net.flamestudios.FarmSystem
 version: 1.0
 folia-supported: true
 api-version: 1.21
