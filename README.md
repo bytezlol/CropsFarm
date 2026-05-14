@@ -47,5 +47,5 @@ crops:
 
 ## Libraries
 FarmSystem uses and is compiled with the following libraries:
-- [FoliaLib](https://github.com/TechnicallyCoded/FoliaLib) (included) — Cross-platform scheduler library for Paper and Folia compatibility.
-- [WorldGuard](https://dev.enginehub.org/worldguard/) (soft dependency) — Region API used to scope crop regeneration to defined areas.
+- [FoliaLib](https://github.com/TechnicallyCoded/FoliaLib) (included) - Cross-platform scheduler library for Paper and Folia compatibility.
+- [WorldGuard](https://dev.enginehub.org/worldguard/) (soft dependency) - Region API used to scope crop regeneration to defined areas.
